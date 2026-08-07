@@ -1,0 +1,6 @@
+size_category,articles,percentage
+Tiny (<100),961339,42.80
+Medium (1k-10k),649817,28.93
+Small (100-1k),310776,13.84
+Large (10k-50k),273264,12.17
+Huge (>50k),50925,2.27

@@ -1,0 +1,45 @@
+======================================================================
+SPARK ML CLUSTERING RESULTS - 2.2M ARTICLES
+======================================================================
+
+Total Articles: 2,246,121
+Best K Value: 6 (Silhouette Score: 0.7905)
+
+CLUSTER INTERPRETATIONS:
+--------------------------------------------------
+
+Cluster 0:
+  Articles: 825,052 (36.7%)
+  Avg Length: 6388 chars
+  Avg Categories: 3.92
+  Avg Year: 2024
+
+Cluster 1:
+  Articles: 721,412 (32.1%)
+  Avg Length: 171 chars
+  Avg Categories: 0.01
+  Avg Year: 2008
+
+Cluster 2:
+  Articles: 58,556 (2.6%)
+  Avg Length: 63388 chars
+  Avg Categories: 6.42
+  Avg Year: 2025
+
+Cluster 3:
+  Articles: 122,547 (5.5%)
+  Avg Length: 17158 chars
+  Avg Categories: 18.51
+  Avg Year: 2025
+
+Cluster 4:
+  Articles: 8,865 (0.4%)
+  Avg Length: 199317 chars
+  Avg Categories: 14.13
+  Avg Year: 2024
+
+Cluster 5:
+  Articles: 509,689 (22.7%)
+  Avg Length: 1181 chars
+  Avg Categories: 0.0
+  Avg Year: 2021

@@ -1,0 +1,17 @@
+==================================================
+WIKIPEDIA ANALYSIS SUMMARY
+==================================================
+
+Total Articles: 2,246,121
+
+Categorized: 1,017,134 (45.28%)
+Uncategorized: 1,228,987 (54.72%)
+
+Top Category: Living people (100,416)
+
+Length Distribution:
+  Tiny (<100): 961,339 (42.80%)
+  Medium (1k-10k): 649,817 (28.93%)
+  Small (100-1k): 310,776 (13.84%)
+  Large (10k-50k): 273,264 (12.17%)
+  Huge (>50k): 50,925 (2.27%)
